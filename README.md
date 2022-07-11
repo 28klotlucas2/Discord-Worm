@@ -1,4 +1,5 @@
 # Discord Worm
+## Disclaimer: I AM NOT RESPONSIBLE FOR THE USE OF THIS PROGRAM OR ANY FORKS OF IT.
  
 Just open the file in notepad and change PUT MESSAGE HERE to whatever you want.
 
